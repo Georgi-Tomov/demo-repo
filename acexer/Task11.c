@@ -63,6 +63,7 @@ int main(){
 
     printf("Total is %.2flv\n", dTotalMoneyDue);
 
+    
     return 0;
 }
 
