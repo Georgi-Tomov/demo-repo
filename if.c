@@ -2,7 +2,7 @@
 
 int main(){
 
-    in age;
+    i age;
 
     printf("\nEnter your age: ");
     scanf("%d",&age);
