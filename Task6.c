@@ -5,7 +5,7 @@
 Изведете всяка променлива на екрана със printf()
 */
 int main(){
-    signed char  scValue = -127;
+    signed char   scValue = -127;
     printf("scValue = %d\n",scValue);
 
     unsigned char ucValue = 255;
