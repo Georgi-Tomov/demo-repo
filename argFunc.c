@@ -6,7 +6,7 @@ void birthday(char name[], int age){
 }
 
 int main(){
-    char name[] = "te st";
+    char name[] = "te  st";
     int age = 21;
 
     birthday(name,age);
