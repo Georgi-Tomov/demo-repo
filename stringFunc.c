@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+int m ain(){
 
     char string1[] = "FName";
     char string2[] = "LName";
