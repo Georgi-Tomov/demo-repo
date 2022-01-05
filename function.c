@@ -1,7 +1,7 @@
 #include <stdio.h>
 void birthday();
 int main(){
-      birthday();
+     birthday();
     birthday();
 
     return 0;
