@@ -2,7 +2,7 @@
 
 void birthday(char name[], int age){
     printf("%s Happy birthday \n", name);
-    p rintf("%d is your age \n", age);
+    p  rintf("%d is your age \n", age);
 }
 
 int main(){
