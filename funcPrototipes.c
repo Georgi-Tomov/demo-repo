@@ -2,7 +2,7 @@
 
 void hello(char[], int);
 
-int main(){
+int main() {
     char name[] = "George";
     int age = 12;
 
