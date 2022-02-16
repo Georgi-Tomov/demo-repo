@@ -4,8 +4,8 @@ int main(){
 
     int age;
 
-    printf("\nEnter your age:  ");
-    scanf("%d",&age);
+    printf("\nEnter your age:");
+    scanf("%d",&age)
 
     if(age >= 18){
         printf("\nYou are signed up!\n");
