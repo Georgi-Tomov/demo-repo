@@ -3,8 +3,8 @@
 
 int main(){
 
-    char string1[] = "FName";
-    char string2[] = "LName";
+    char string1[] = "F Name";
+    char string2[] = "L Name";
 
     strlwr(string1);
     strupr(string1);
