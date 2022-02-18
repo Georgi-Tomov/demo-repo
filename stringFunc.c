@@ -11,8 +11,11 @@ int main(){
     strupr(string1);
     
     strcat(string1, string2);
+    
     strncat(string1, string2, 1);
+    
     strcpy(string1, string2);
+    
     strncpy(string1, string2, 1);
 
     strset(string1, '?');
