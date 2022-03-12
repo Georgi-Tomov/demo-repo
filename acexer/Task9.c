@@ -6,7 +6,8 @@
 583 853.39875937284928422.
 Изведете всяка променлива на екрана с printf()
 */
-int main(){
+int main()
+{
     double ddValue = 4.9876543;
     printf("ddValue = %.7Lf\n", ddValue);
 
