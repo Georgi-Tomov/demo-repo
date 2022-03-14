@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
 
     int age;
 
@@ -19,5 +18,6 @@ int main()
     {
         printf("\nYou are not signed up!\n");
     }
-return 0;
+
+    return 0;
 }
