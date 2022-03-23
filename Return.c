@@ -4,6 +4,7 @@ double square(double x);
 
 int main() 
 {
+    
     double x = square(3.14);
     printf("%lf\n", x);
 
