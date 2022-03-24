@@ -9,8 +9,7 @@ x= x – 10 + 2;
 калкулация?
 */
 
-int main()
-{
+int main(){
     char x = 8;
     printf("x: %d\n", x);
     x = x -2;
