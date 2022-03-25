@@ -17,7 +17,5 @@ int main(){
     strrev(string1);
 
     printf("%s\n", string1);
-
-
     return 0;
 }
