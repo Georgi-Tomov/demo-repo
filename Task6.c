@@ -22,5 +22,4 @@ int main()
     printf("sllValue = %lld\n", sllValue);
 
     return 0;
-    
 }
