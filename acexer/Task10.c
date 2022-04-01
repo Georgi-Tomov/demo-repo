@@ -13,7 +13,8 @@ void exit(int code);
 double caravanDue(double dDailyPriceCaravan, int iRentDays, int iReserved);
 double canperDue(double dDailyPriceCampers, int iRentDays, int iReserved);
 
-int main(){
+int main()
+{
     int iTotalCaravans = 3;
     int iTotalCampers = 3;
     int iReserved = 0;
