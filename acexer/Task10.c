@@ -62,7 +62,8 @@ double caravanDue(double dDailyPriceCaravan, int iRentDays, int iReserved)
     return dDailyPriceCaravan * iRentDays * iReserved;
 }
 
-double canperDue(double dDailyPriceCampers , int iRentDays, int iReserved){
+double canperDue(double dDailyPriceCampers , int iRentDays, int iReserved)
+{
     return dDailyPriceCampers * iRentDays * iReserved;
 }
 void exit(int status);
