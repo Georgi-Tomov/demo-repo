@@ -6,7 +6,6 @@ int main()
 {
     int max = findMax(5, 4);
 
-    
     printf("%d\n", max);
 
     return 0;
