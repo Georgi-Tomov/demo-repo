@@ -9,6 +9,7 @@ int main()
     signed char scValue = -127;
     printf("scValue = %d\n",scValue);
 
+    
     unsigned char ucValue = 255;
     printf("ucValue = %d\n",ucValue);
 
