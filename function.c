@@ -5,6 +5,7 @@ void birthday();
 int main()
 {
     
+    
     birthday();
     birthday();
     
