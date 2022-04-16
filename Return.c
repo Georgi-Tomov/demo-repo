@@ -11,7 +11,6 @@ int main()
 }
 
 
-double square(double x)
-{
+double square(double x){
     return x * x;
 }
