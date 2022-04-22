@@ -8,6 +8,7 @@ int main()
     
     printf("%lf\n", x);
 
+    
     return 0;
 }
 
