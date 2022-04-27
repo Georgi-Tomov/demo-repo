@@ -10,7 +10,6 @@ int main()
 
     hello(name, age);
 
-    
     return 0;
 }
 
