@@ -9,9 +9,7 @@ int main()
 
     switch(grade)
     {
-            
         case 'A':
-            
             printf("Perfect!\n");
             break;
         case 'B':
