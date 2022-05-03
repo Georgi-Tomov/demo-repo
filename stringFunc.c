@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main()
-{
+int main(){
     char string1[] = "FName";
     char string2[] = "LName";
     strlwr(string1);
@@ -16,5 +15,6 @@ int main()
     strrev(string1);
 
     printf("%s\n", string1);
+    
     return 0;
 }
