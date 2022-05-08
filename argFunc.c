@@ -6,8 +6,11 @@ void birthday(char name[], int age)
     printf("%d is your age \n", age);
 }
 
-int main()
-{
+int main(){
+    
+    
+    
+    
     char name[] = "test";
     
     int age = 21;
