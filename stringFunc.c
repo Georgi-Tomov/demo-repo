@@ -4,6 +4,7 @@
 int main(){
     char string1[] = "FName";
     char string2[] = "LName";
+    
     strlwr(string1);
     strupr(string1);
     strcat(string1, string2);
