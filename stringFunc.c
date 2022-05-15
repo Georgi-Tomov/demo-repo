@@ -7,6 +7,7 @@ int main(){
     
     strlwr(string1);
     strupr(string1);
+    
     strcat(string1, string2);
     strncat(string1, string2, 1);
     strcpy(string1, string2);
