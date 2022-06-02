@@ -2,8 +2,7 @@
 
 void birthday();
 
-int main()
-{
+int main(){
     
     birthday();
     birthday();
