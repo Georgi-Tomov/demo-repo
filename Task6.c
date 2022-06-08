@@ -6,7 +6,8 @@
 */
 
 
-int main(){
+int main()
+{
     signed char scValue = -127;
     printf("scValue = %d\n",scValue);
 
