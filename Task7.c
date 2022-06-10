@@ -6,7 +6,6 @@
 
 Изведете всяка променлива на екрана със printf()
 */
-
 int main(){
     unsigned short usValue = 24212;
     printf("usValue = %d\n", usValue);
