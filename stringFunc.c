@@ -3,7 +3,6 @@
 
 int main()
 {
-    
     char string1[] = "FName";
     char string2[] = "LName";
     
