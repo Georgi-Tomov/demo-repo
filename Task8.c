@@ -12,7 +12,6 @@ x= x – 10 + 2;
 
 int main()
 {
-    
     char x = 8;
     printf("x: %d\n", x);
     
