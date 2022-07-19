@@ -8,7 +8,6 @@ int main(){
      return 0;
 }
 
-void birthday()
-{
+void birthday(){
     printf("Hello!!!\n");
 }
