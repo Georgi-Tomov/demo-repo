@@ -7,7 +7,6 @@ int main(){
     
      return 0;
 }
-
 void birthday(){
     printf("Hello!!!\n");
 }
