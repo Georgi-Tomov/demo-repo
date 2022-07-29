@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 double square(double x);
 
 int main()
