@@ -12,6 +12,7 @@ int main()
         case 'A':
             printf("Perfect!\n");
             break;
+            
         case 'B':
             printf("You did good!\n");
             break;
