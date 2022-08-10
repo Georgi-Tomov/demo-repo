@@ -10,6 +10,7 @@ int main()
     hello(name, age);
 
     return 0;
+    
 }
 void hello(char *name, int age)
 {
