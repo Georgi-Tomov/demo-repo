@@ -3,6 +3,7 @@
 int main()
 {
     int age;
+    
 
     printf("\nEnter your age: ");
     scanf("%d",&age);
