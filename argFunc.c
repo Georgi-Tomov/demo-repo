@@ -7,6 +7,7 @@ void birthday(char name[], int age)
 }
 
 
+
 int main()
 {
     char name[] = "test";
