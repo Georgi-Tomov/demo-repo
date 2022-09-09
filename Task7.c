@@ -10,6 +10,7 @@ int main()
 {
     unsigned short usValue = 24212;
     printf("usValue = %d\n", usValue);
+    
     int iValue = -1357674;
     printf("iValue = %d\n", iValue);
     int iValueOne = 1357674;
