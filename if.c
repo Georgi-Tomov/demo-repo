@@ -15,7 +15,8 @@ int main()
     {
         printf("\nYou are just born.!\n");
     }
-    else if(age < 0){
+    else if(age < 0)
+    {
         printf("\nEnter valid age next time\n");
     }
     else{
