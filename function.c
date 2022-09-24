@@ -6,7 +6,6 @@ void birthday();
 int main()
 {
     birthday();
-    
     birthday();
     
      return 0;
