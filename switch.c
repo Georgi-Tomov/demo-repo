@@ -13,7 +13,6 @@ int main()
             printf("Perfect!\n");
             break;
         case 'B':
-            
             printf("You did good!\n");
             break;
         case 'C':
