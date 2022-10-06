@@ -6,7 +6,8 @@
 Изведете всяка променлива на екрана със printf()
 */
 
-int main(){
+int main()
+{
     signed char scValue = -127;
     printf("scValue = %d\n",scValue);
 
@@ -21,6 +22,5 @@ int main(){
     
     signed long long sllValue = -9000000000000775845;
     printf("sllValue = %lld\n", sllValue);
-    
     return 0;
 }
