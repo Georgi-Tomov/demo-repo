@@ -22,8 +22,7 @@ int main()
     {
         printf("\nEnter valid age next time\n");
     }
-    else
-    {
+    else{
         printf("\nYou are not signed up!\n");
     }
     return 0;
