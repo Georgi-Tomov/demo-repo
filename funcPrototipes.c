@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void hello(char[], int);
 
 int main()
@@ -10,7 +11,6 @@ int main()
 
     return 0;
 }
-
 
 void hello(char *name, int age)
 {
