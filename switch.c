@@ -36,6 +36,7 @@ int main()
             
         default:
             printf("Enter valid grade: \n");
+            
             break;
     }
     return 0; 
