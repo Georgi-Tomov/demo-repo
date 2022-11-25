@@ -31,6 +31,7 @@ int main()
             
         case 'F':
             printf("You Failed!\n");
+            
             break;
             
         default:
