@@ -7,8 +7,7 @@ int main()
     birthday();
     birthday();
     
-     return 0;
-}
+     return 0;}
 
 void birthday()
 {
