@@ -12,7 +12,6 @@ int main()
     
     unsigned char ucValue = 255;
     printf("ucValue = %d\n",ucValue);
-    
     unsigned short usValue = 63498;
     printf("usValue = %d\n",usValue);
     unsigned int uiValue  = 4294967292;
