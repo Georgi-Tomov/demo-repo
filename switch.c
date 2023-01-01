@@ -11,7 +11,6 @@ int main()
     {
         case 'A':
             printf("Perfect!\n");
-            
             break;
             
         case 'B':
