@@ -12,7 +12,8 @@ int main()
         printf("\nYou are signed up!\n");
     }
     
-    else if(age == 0){
+    else if(age == 0)
+    {
         printf("\nYou are just born.!\n");
     }
     
