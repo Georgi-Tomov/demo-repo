@@ -13,6 +13,5 @@ int main(){
     strnset(string1, 'x', 1);
     strrev(string1);
     printf("%s\n", string1);
-    
     return 0;
 }
