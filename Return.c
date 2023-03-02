@@ -7,6 +7,7 @@ int main(){
     
     return 0;}
 
-double square(double x){  
+double square(double x)
+{  
     return x * x;
 }
