@@ -24,6 +24,7 @@ int main()
             break;
         default:
             printf("Enter valid grade: \n");
+            
             break;
     }
     return 0; 
