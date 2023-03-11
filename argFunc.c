@@ -13,5 +13,4 @@ int main()
     
     birthday(name, age);
     
-    return 0;
-}
+    return 0;}
