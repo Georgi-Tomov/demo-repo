@@ -18,7 +18,6 @@ int main(){
         case 'D':
             printf("At least it's not an F!\n");
             break;
-            
         case 'F':
             printf("You Failed!\n");
             break;
