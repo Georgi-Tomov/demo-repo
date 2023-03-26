@@ -12,6 +12,5 @@ int main()
     int age = 21;
     
     birthday(name, age);
-    
     return 0;
 }
