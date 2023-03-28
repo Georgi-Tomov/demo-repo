@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void birthday();
 int main(){
     birthday();
