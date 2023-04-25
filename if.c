@@ -7,8 +7,7 @@ int main()
     printf("\nEnter your age: ");
     scanf("%d",&age);
 
-    if(age >= 18)
-    {
+    if(age >= 18){
         printf("\nYou are signed up!\n");
     }
     
