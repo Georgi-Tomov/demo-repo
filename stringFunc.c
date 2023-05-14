@@ -12,7 +12,6 @@ int main(){
     
     strcpy(string1, string2);
     strncpy(string1, string2, 1);
-    
     strset(string1, '?');
     strnset(string1, 'x', 1);
     strrev(string1);
