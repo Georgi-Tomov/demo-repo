@@ -14,6 +14,5 @@ int main()
 void hello(char *name, int age)
 {
     printf("Hello %s\n", name);
-    
     printf("Your age is %d\n", age);
 }
