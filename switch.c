@@ -15,7 +15,6 @@ int main()
         case 'B':
             printf("You did good!\n");
             break;
-            
         case 'C':
             printf("You did OK!\n");
             break;
