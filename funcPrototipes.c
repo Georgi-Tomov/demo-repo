@@ -9,7 +9,6 @@ int main()
     
     return 0;
 }
-
 void hello(char *name, int age)
 {
     printf("Hello %s\n", name);
