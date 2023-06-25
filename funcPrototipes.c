@@ -1,6 +1,5 @@
 #include <stdio.h>
 void hello(char[], int);
-
 int main()
 {
     char name[] = "George";
