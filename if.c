@@ -25,6 +25,5 @@ int main()
     {
         printf("\nYou are not signed up!\n");
     }
-    
     return 0;
 }
