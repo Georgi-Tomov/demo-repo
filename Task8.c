@@ -15,6 +15,7 @@ int main()
 {
     char x = 8;
     printf("x: %d\n", x);
+    
     x = x -2;
     printf("x: %d\n", x);
     
