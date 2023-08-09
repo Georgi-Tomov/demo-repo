@@ -17,7 +17,6 @@ int main()
 
     strset(string1, '?');
     strnset(string1, 'x', 1);
-    
     strrev(string1);
     printf("%s\n", string1);
     
