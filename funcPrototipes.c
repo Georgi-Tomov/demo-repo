@@ -8,7 +8,6 @@ int main()
     int age = 12;
     
     hello(name, age);
-    
     return 0;
 }
 
