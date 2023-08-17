@@ -28,7 +28,6 @@ int main()
             printf("You Failed!\n");
             break;
 
-        
         default:
             printf("Enter valid grade: \n");
             break;
