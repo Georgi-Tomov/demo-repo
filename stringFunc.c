@@ -11,7 +11,6 @@ int main()
     
     strcat(string1, string2);
     strncat(string1, string2, 1);
-    
     strcpy(string1, string2);
     strncpy(string1, string2, 1);
     
