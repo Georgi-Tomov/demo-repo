@@ -18,6 +18,7 @@ int main()
     printf("x: %d\n", x);
     x= x+ 6;
     printf("x: %d\n", x);
+    
     x= x - 10 + 2;// " – " <------ Error symbol Fixed with "-"
     printf("x: %d\n", x);
     
