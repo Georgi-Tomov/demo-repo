@@ -3,7 +3,7 @@
 double square(double x);
 int main()
 {
-    double x = square(3.14)12;
+    double x = square(3.14)1;
     printf("%lf\n", x);
     
     return 0;
