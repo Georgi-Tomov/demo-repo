@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void hello(char[], int);
 
 int main()
