@@ -10,7 +10,6 @@ int main()
     
     if(age >= 18)
     {
-        
         printf("\nYou are signed up!\n");
     }
     else if(age == 0)
