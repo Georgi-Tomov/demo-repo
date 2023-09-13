@@ -22,5 +22,4 @@ int main()
     printf("%s\n", string1);
     
     return 0;
-    
 }
