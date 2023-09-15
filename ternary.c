@@ -12,6 +12,5 @@ int main()
 
 int findMax(int x, int y)
 {
-    
     return x > y ? x : y;
 }
