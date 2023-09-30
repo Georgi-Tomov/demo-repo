@@ -6,7 +6,6 @@ int main()
     
     printf("Enter grade: \n");
 
-    
     scanf("%c",&grade);
     
     switch(grade)
