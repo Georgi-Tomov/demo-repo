@@ -22,6 +22,5 @@ int main()
     
     x= x - 10 + 2;// " – " <------ Error symbol Fixed with "-"
     printf("x: %d\n", x);
-    
     return 0;
 }
