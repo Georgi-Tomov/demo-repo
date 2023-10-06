@@ -2,7 +2,6 @@
 void birthday(char name[], int age)
 {
     printf("%s Happy birthday \n", name);
-    
     printf("%d is your age \n", age);
 }
 
