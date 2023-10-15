@@ -1,7 +1,7 @@
 #include <stdio.h>
 double square(double x);
 
-int main()
+int main()a
 {
     double x = square(3.14);
     printf("%lf\n", x);
