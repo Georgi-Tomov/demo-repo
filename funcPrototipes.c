@@ -4,7 +4,6 @@ int main()
 {
     char name[] = "George";
     int age = 12;
-    
     hello(name, age);
     
     return 0;
