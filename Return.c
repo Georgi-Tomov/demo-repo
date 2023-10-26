@@ -7,7 +7,7 @@ int main()
     printf("%lf\n", x);
     
     return 0;
-}k
+}
 
 double square(double x)
 {  
