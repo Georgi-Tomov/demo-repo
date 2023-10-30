@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void birthday(char name[], int age)hj
+void birthday(char name[], int age)h
 {
     printf("%s Happy birthday \n", name);
     printf("%d is your age \n", age);
