@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()f
+int main()
 {
     int age;
     
