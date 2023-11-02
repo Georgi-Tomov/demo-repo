@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+k
 int main()
 {
     int age;
