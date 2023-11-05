@@ -1,5 +1,5 @@
 #include <stdio.h>
-lh
+l
 int findMax(int x, int y);
 
 int main()
