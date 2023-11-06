@@ -14,7 +14,6 @@ int main()
     printf("ucValue = %d\n",ucValue);
     unsigned short usValue = 63498;
     printf("usValue = %d\n",usValue);
-    
     unsigned int uiValue  = 4294967292;
     printf("uiValue = %u\n", uiValue);
     signed long long sllValue = -9000000000000775845;
