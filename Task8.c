@@ -17,7 +17,6 @@ int main()
     
     x = x -2;
     printf("x: %d\n", x);
-    
     x= x+ 6;
     printf("x: %d\n", x);
     
