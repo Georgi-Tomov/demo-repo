@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void birthday(char name[], int age)
-{d
+{
     printf("%s Happy birthday \n", name);
     printf("%d is your age \n", age);
 }
