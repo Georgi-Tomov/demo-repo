@@ -1,7 +1,7 @@
 #include <stdio.h>
 void birthday();
 
-int main()
+int main()f
 {
     birthday();
     birthday();
