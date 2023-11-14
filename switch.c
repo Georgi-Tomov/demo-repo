@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+a
 int main()
 {
     char grade;
