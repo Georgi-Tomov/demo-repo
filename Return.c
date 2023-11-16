@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+q
 double square(double x);
 
 int main()
