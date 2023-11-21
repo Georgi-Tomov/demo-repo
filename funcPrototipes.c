@@ -5,7 +5,7 @@ int main()
 {
     char name[] = "George";
     int age = 12;
-    a
+    
     hello(name, age);
     
     return 0;
