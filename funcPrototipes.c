@@ -10,7 +10,7 @@ int main()
     
     return 0;
 }
-a
+
 void hello(char *name, int age)
 {
     printf("Hello %s\n", name);
