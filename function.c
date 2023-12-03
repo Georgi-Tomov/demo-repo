@@ -4,7 +4,7 @@ void birthday();
 int main()
 {
     birthday();
-    birthday();
+    birthday();a
     
      return 0;
 }
