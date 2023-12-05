@@ -2,7 +2,6 @@
 #include <string.h>a
 
 
-
 int main()
 {
     char string1[] = "FName";
