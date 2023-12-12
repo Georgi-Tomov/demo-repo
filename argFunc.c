@@ -11,7 +11,7 @@ int main()
     char name[] = "test";
 
     
-    int age = 21;
+    int age = 21;a
     birthday(name, age);
     
     return 0;
